@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Pride1-h
-- 👀 I’m interested in .... 
-- 🌱 I’m currently learning .....
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Cyber oops
+- 🌱 I’m currently learning CEH
+- 💞️ I’m looking to collaborate on Ethical Hacker
+- 📫 How to reach me contact on Facebook
+- 
 
 <!---
 Pride1-h/Pride1-h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
