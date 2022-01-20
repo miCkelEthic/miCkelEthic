@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Manis(Pride1-h)
+- 👋 Hi, I’m @miCkelEthic
 - 👀 I’m interested in Cyber oops
 - 🌱 I’m currently learning CEH
 - 💞️ I’m looking to collaborate on Ethical Hacker
